@@ -1,5 +1,6 @@
-package org.jrae.holakinal;
+package org.jrae.holakinal.web;
 
+import org.jrae.holakinal.dominio.service.HolaServiceAI;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

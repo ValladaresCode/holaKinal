@@ -1,4 +1,4 @@
-package org.jrae.holakinal;
+package org.jrae.holakinal.dominio.service;
 
 import dev.langchain4j.service.UserMessage;
 import dev.langchain4j.service.spring.AiService;
